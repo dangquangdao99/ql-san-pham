@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Ten": "Quần Âu Nam Ống Ôm Xếp Ly Phối Lưng Thun Trơn Form Slim ",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "540000",
+      "moTa": "abcde",
+      "ngayTao": "10/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "2",
+      "Ten": "Quần Jean Nam Trơn Ống Ôm Túi Đắp Form Slim Cropped - 10F23DPA008",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "330000",
+      "moTa": "abc",
+      "ngayTao": "19/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "3",
+      "Ten": "Quần Jean Nam Ống Ôm Wash Dye Trơn Form Slim - 10F23DPA001",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "230000",
+      "moTa": "abc",
+      "ngayTao": "05/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "4",
+      "Ten": "Quần Jean Nam Ống Rộng Trơn Form Wide Leg - 10F23DPA023",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "630000",
+      "moTa": "xsd",
+      "ngayTao": "25/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "5",
+      "Ten": "xyz",
+      "anh": "Quần Kaki Nam Ống Rộng Premium Limited Form Wide Leg -",
+      "gia": 830000,
+      "moTa": "abc",
+      "ngayTao": "15/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "6",
+      "Ten": "Quần Kaki Nam Ống Rộng Premium Limited Form Wide Leg - 10F23PCA005L",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": 780000,
+      "moTa": "abc",
+      "ngayTao": "22/01/2024",
+      "ngayCapNhat": "26/01/2024",
+      "name": "admin",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "7",
+      "Ten": "Quần Tây Nam Ống Đứng Premium Limited Form Straight - 10F23PFO003L",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": 670000,
+      "moTa": "abc",
+      "ngayTao": "23/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "8",
+      "Ten": "Quần Tây Nam Ống Rộng Premium Melange Limited Form Loose - 10F23PFO019L",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": 1276000,
+      "moTa": "abc",
+      "ngayTao": "23/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "9",
+      "Ten": "Quần Jogger Nam Trơn Phối Dây Rút Trong Form Jogger - 10S23PJO003",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": 567000,
+      "moTa": "abc",
+      "ngayTao": "22/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "10",
+      "Ten": "Quần Short Nam Nylon Túi Sau Nhãn Trang Trí Form Relax - 10S24PSH029",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": 332000,
+      "moTa": "abc",
+      "ngayTao": "14/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "11",
+      "Ten": "Quần Jean Nam Ống Rộng Trơn Form Wide Leg - 10F23DPA025",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "623000",
+      "moTa": "abc",
+      "ngayTao": "15/01/2024",
+      "ngayCapNhat": "16/01/2024"
+    },
+    {
+      "id": "12",
+      "Ten": "Quần Vải Nam Ống Ôm Xếp Ly Trơn Form Slim Cropped - 10F23PFO002",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "562000",
+      "moTa": "abc",
+      "ngayTao": "20/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "13",
+      "Ten": "Quần Kaki Nam Ống Suông Xếp Ly Trơn Form Straight Crop - 10S23PCA020",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "589000",
+      "moTa": "abc",
+      "ngayTao": "22/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "14",
+      "Ten": "Quần Tây Nam Ống Ôm Diễu Lưng Trơn Form Slim Crop - 10F23PFO004",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "444000",
+      "moTa": "abc",
+      "ngayTao": "20/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    },
+    {
+      "id": "15",
+      "Ten": "Quần Tây Nam Ống Ôm Polyester Trơn Phối Lót Form Slim - 10F23PFO021",
+      "anh": "https://zizoou.com/cdn/shop/files/Quan-jogger-tui-hop-4b-Quan-kaki-ong-tum-den-1-ZiZoou-Store-0000.jpg?v=1691078153",
+      "gia": "578000",
+      "moTa": "abc",
+      "ngayTao": "23/01/2024",
+      "ngayCapNhat": "26/01/2024"
+    }
+  ]
+}
